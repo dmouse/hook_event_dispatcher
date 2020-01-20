@@ -2,7 +2,7 @@
 
 namespace Drupal\preprocess_example_module\Event;
 
-use Drupal\preprocess_event_dispatcher\Event\AbstractPreprocessEvent;
+use Drupal\hook_event_dispatcher\Event\Preprocess\AbstractPreprocessEvent;
 
 /**
  * Class ExamplePreprocessEvent.
